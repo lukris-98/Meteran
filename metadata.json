@@ -1,0 +1,6 @@
+{
+  "name": "Hitung Tanah",
+  "description": "Aplikasi presisi untuk mengukur luas dan keliling lahan poligon dengan grid interaktif, multi-bidang, dan ekspor peta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
